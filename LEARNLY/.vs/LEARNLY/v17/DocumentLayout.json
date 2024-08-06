@@ -1,36 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\",
+  "WorkspaceRootPath": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|c:\\users\\elizsakallioglu\\source\\repos\\learnly\\learnly\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|c:\\users\\elizsakallioglu\\source\\repos\\learnly\\learnly\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|c:\\users\\omeryildiz\\source\\repos\\learnly\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omeryildiz\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|c:\\users\\omeryildiz\\source\\repos\\learnly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\content\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\content\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D443B440-FF29-428C-AA4C-B1EE1F8714BD}|LEARNLY.csproj|solutionrelative:content\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -41,28 +45,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T07:32:15.275Z",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T10:40:28.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:32:15.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Content\\app.css",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Content\\app.css",
               "RelativeDocumentMoniker": "Content\\app.css",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Content\\app.css",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Content\\app.css",
               "RelativeToolTip": "Content\\app.css",
               "ViewState": "AQIAALUAAAAAAAAAAAAAALoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -70,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Views\\User\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "Views\\User\\Login.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -82,68 +98,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAwD8AAAByAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwDEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T19:54:29.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LessonController.cs",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\LessonController.cs",
               "RelativeDocumentMoniker": "Controllers\\LessonController.cs",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\LessonController.cs",
               "RelativeToolTip": "Controllers\\LessonController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:54:28.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExamController.cs",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\ExamController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ExamController.cs",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\ExamController.cs",
-              "RelativeToolTip": "Controllers\\ExamController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowEcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:53:02.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\omeryildiz\\source\\repos\\LEARNLY\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Controllers\\DefaultController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:54:25.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:54:28.511Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Controllers\\ExamController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowEcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:53:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\ElizSakallioglu\\source\\repos\\Learnly\\LEARNLY\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:54:25.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ModelMetadata.cs",
               "DocumentMoniker": "C:\\Users\\omeryildiz\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\omeryildiz\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
               "ToolTip": "C:\\Users\\omeryildiz\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\omeryildiz\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
               "ViewState": "AQIAACoBAAAAAAAAAADwvzwBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:53:10.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:53:10.412Z"
             }
           ]
         }
